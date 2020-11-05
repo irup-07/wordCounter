@@ -1,5 +1,5 @@
 body {
-	background-color: #333;
+	background-color: #000;
 	font-family: 'Open Sans', sans-serif;
 	line-height: 1.4em;
 	font-size: 1em;
@@ -21,11 +21,13 @@ img {
 	margin: 0 auto;
 	text-align: center;
 }
-
+a{
+  text-decoration: none;
+}
 h1 {
 	font-family: 'Open Sans', sans-serif;
 	font-size: 1.8em;
-font-weight: 400;
+font-weight: 500;
 	color: #bdc3c7;
 	line-height: 1.2em;
 
